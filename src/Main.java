@@ -83,7 +83,7 @@ public class Main {
         System.out.println("\nThe maximum value in this array is: " + intMax);
 
         //Calling Static Method
-        System.out.println("\n" + "The average of dataPoints is: " + getAverage(dataPoints));
+        System.out.println("\n" + "Average of dataPoints is: " + getAverage(dataPoints));
     }
 
 
